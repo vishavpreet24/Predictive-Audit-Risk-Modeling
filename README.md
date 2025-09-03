@@ -17,3 +17,7 @@ Key Highlights
 5. Evaluated results with accuracy, F1-score, confusion matrix, and classification reports.
 
 6. Visualized findings using Matplotlib and Seaborn.
+
+Conclusion
+
+The project demonstrates that machine learning can play a crucial role in predicting audit risks by identifying patterns in financial and business datasets. Among the tested models, ensemble methods like Random Forest generally provide more robust and accurate predictions compared to single models. This approach can help auditors and financial analysts detect potential risks early, improve decision-making, and strengthen overall compliance and governance.
